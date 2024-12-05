@@ -1,0 +1,11 @@
+.navbar{
+  background-color: black !important;
+}
+
+.navbar-brand{
+  color: aliceblue;
+}
+
+.nav-link{
+  color: white !important;
+}
