@@ -1,12 +1,17 @@
 import './App.css';
-import AboutUs from './components/AboutUs';
+import Index from './components/Index';
+import Footer from './components/Footer';
 import Header from './components/Header'
+import Reservations from './components/Reservations';
+
 
 function App() {
   return (
     <div className="App">
       <Header/>
-      <AboutUs/>
+      <Index/>
+      <Reservations/>
+      <Footer/>
     </div>
   );
 }

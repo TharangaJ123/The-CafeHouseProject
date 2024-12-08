@@ -1,0 +1,47 @@
+.hero-left{
+  height: 100vh;
+}
+
+.slider{
+  display:flex;
+  justify-content: center;
+  align-items:center;
+  min-height: 100vh;
+}
+
+.slide-img{
+  width: 100%;
+  height: 100vh;
+}
+
+.show{
+  display: block;
+}
+
+.hide{
+  display: none;
+}
+
+.controllers {
+  position: absolute;
+}
+
+.controllers.prev{
+  left: 512px;
+}
+.controllers.next{
+  right: 5px;
+}
+
+.section-braker{
+  margin-bottom: 80px;
+}
+
+/*about us css*/
+.about-us-header{
+  font-size: 30px;
+}
+
+.about-para{
+  font-size: 20px;
+}
