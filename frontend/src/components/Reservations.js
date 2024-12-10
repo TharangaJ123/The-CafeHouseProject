@@ -1,4 +1,5 @@
 import React from 'react';
+import './Reservations.css';
 
 export default function Reservations(){
   return(
@@ -19,14 +20,14 @@ export default function Reservations(){
                                 <div class="phone">
                                     <i class="fa fa-phone"></i>
                                     <h4>Phone Numbers</h4>
-                                    <span><a href="#">080-090-0990</a><br/><a href="#">080-090-0880</a></span>
+                                    <span><a href="#">+94 70 812 6789</a><br/><a href="#">+94 70 812 6789</a></span>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="message">
                                     <i class="fa fa-envelope"></i>
                                     <h4>Emails</h4>
-                                    <span><a href="">hello@company.com</a><br/><a href="">info@company.com</a></span>
+                                    <span><a href="">thecafehouse@gmail.com</a><br/><a href="">thecafehouse@gmail.com</a></span>
                                 </div>
                             </div>
                         </div>

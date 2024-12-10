@@ -1,10 +1,11 @@
 import React from 'react';
+import './Footer.css'
 
 export default function Footer(){
 
   return(
 
-    <div>
+    <footer>
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-xs-12">
@@ -24,15 +25,15 @@ export default function Footer(){
                 </div>
                 <div class="col-lg-4 col-xs-12">
                     <div class="left-text-content">
-                        <p>© Copyright Klassy Cafe Co.
+                        <p>© Copyright The Cafe House
                         
-                        <br/>Design: TemplateMo</p>
+                        <br/>Location : Kegalle-Polgahawela Main Road</p>
                     </div>
                 </div>
             </div>
         </div>
 
-    </div>
+    </footer>
 
   )
 
