@@ -1,3 +1,5 @@
+
+
 footer {
   margin-top: 60px;
   padding: 50px 0px;
@@ -55,4 +57,22 @@ footer .right-text-content ul li a {
 
 footer .right-text-content ul li a:hover {
   color: #2a2a2a;
+}
+
+.left-sec{
+  background-color: #2a2a2a;
+}
+
+
+/*fast moving items section*/
+.fast-move-desc{
+  height: 80px;
+  width:400px;
+  background-color: yellow;
+}
+
+.fast-move-price{
+  height: 80px;
+  width:80px;
+  background-color:red;
 }

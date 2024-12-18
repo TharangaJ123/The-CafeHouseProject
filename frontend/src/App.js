@@ -4,6 +4,7 @@ import Footer from './components/Footer';
 import Header from './components/Header'
 import Reservations from './components/Reservations';
 import {BrowserRouter as Router,Route,Routes} from "react-router-dom";
+import Menu from './components/Menu';
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
         </Routes>
         
         <Footer/>
+        <Menu/>
       </div>
     </Router>
   );
